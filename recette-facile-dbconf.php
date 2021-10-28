@@ -2,8 +2,8 @@
 
   const DB_HOST    = "localhost";
   const DB_NAME    = "recette-facile";
-  const DB_LOGIN   = "root";
-  const DB_PASS    = "";
+  const DB_LOGIN   = "XXXXXXXXXXX";
+  const DB_PASS    = "XXXXXXXXXXX";
 
   const DB_DRIVER  = "mysql";
   const DB_CHARSET = "utf8mb4";
